@@ -18,7 +18,7 @@ The application evaluates clinical biomarkers (resting blood pressure, serum cho
 
 ## 🔗 Dataset Source
 * **Dataset**: Heart Disease UCI Clinical Dataset
-* **Source Link**: [Kaggle Heart Disease Dataset](https://www.kaggle.com) *(Update with your exact Kaggle dataset link)*
+* **Source Link**: obodkhe1415 *(Update with your exact Kaggle dataset link)*
 
 ---
 
